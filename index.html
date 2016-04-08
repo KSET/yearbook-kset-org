@@ -32,7 +32,7 @@
                     <div class="slide" ng-repeat="member in members" data-anchor="{{member.anchorHolder}}">
                         <div class="row">
                             <div class="col-xs-12 text-center">
-                                <img class="img-responsive img-yearbook" ng-src="{{member.photo}}" />
+                                <img class="img-responsive img-yearbook" data-src="{{member.photo}}" />
                                 <h2>{{member.firstName + " " + member.lastName}}</h2>
                                 <p class="quote">"{{member.quote}}"</p>
                                 <p>{{member.mostLikely}}</p>
