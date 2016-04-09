@@ -1,17 +1,25 @@
 ﻿[
   {
+    "firstName": "Bike",
+    "lastName": "sekcija",
+    "quote": "",
+    "mostLikely": "",
+    "photo": "/img/bike/bike_grupna.jpg",
+    "anchorHolder": "bike-sekcija"
+  },
+  {
     "firstName": "Fran",
     "lastName": "Miočić-Stošić",
-    "quote": "",
-    "mostLikely": "Stavili smo ga pod Bike sekciju da ih ne bude samo troje",
+    "quote": "Zato mu suze naplati, sve nek ti s kamatom vrati. Uzmi mu kuću, kola, sve, za sve te paklene godine.",
+    "mostLikely": "",
     "photo": "/img/bike/fran_miocic_stosic.jpg",
-    "anchorHolder": "bike-sekcija"
+    "anchorHolder": ""
   },
   {
     "firstName": "Mihael",
     "lastName": "Nosil",
-    "quote": "",
-    "mostLikely": "Najvjerojatnije je ovo prvi put da vidite člana Bike sekcije kako koristi bicikl.",
+    "quote": "Moja mala nema prednji' zubi, kad me ljubi, jezikom me ubi.",
+    "mostLikely": "",
     "photo": "/img/bike/mihael_nosil.jpg",
     "anchorHolder": ""
   },
@@ -19,7 +27,7 @@
     "firstName": "Anja",
     "lastName": "Rosić",
     "quote": "Does it come in pink?",
-    "mostLikely": "Najvjerojatnije ne zna da ne moraš uvijek stisnuti like na fejsu.",
+    "mostLikely": "Najvjerojatnije ne zna da ne moraš ama baš sve lajkati na fejsu.",
     "photo": "/img/bike/anja_rosic.jpg",
     "anchorHolder": ""
   },
@@ -27,9 +35,17 @@
     "firstName": "Zrinka",
     "lastName": "Samac",
     "quote": "Check out my ride! ;)",
-    "mostLikely": "Najvjerojatnije je ovo drugi put da vidite člana Bike sekcije kako koristi bicikl.",
+    "mostLikely": "",
     "photo": "/img/bike/zrinka_samac.jpg",
     "anchorHolder": ""
+  },
+  {
+    "firstName": "Disco",
+    "lastName": "sekcija",
+    "quote": "",
+    "mostLikely": "",
+    "photo": "/img/disco/disco_grupna.jpg",
+    "anchorHolder": "disco-sekcija"
   },
   {
     "firstName": "Mathea",
@@ -37,7 +53,7 @@
     "quote": "Do kad ovo moramo smislit?",
     "mostLikely": "",
     "photo": "/img/disco/mathea_aragovic.jpg",
-    "anchorHolder": "disco-sekcija"
+    "anchorHolder": ""
   },
   {
     "firstName": "Luka",
@@ -50,8 +66,8 @@
   {
     "firstName": "Viktoria",
     "lastName": "Babić",
-    "quote": "Ako voliš vodu, već si 72% poput mene.",
-    "mostLikely": "Najvjerojatnije je ovaj citat zvučao bolje u njenoj glavi.",
+    "quote": "Piše se bez j.",
+    "mostLikely": "",
     "photo": "/img/disco/viktoria_babic.jpg",
     "anchorHolder": ""
   },
@@ -59,7 +75,7 @@
     "firstName": "Nikola",
     "lastName": "Biliš",
     "quote": "Devet od deset žena preporučuje Nikolu B.",
-    "mostLikely": "Ova zadnja žena je malo pametnija.",
+    "mostLikely": "",
     "photo": "/img/disco/nikola_bilis.jpg",
     "anchorHolder": ""
   },
@@ -67,7 +83,7 @@
     "firstName": "Stella",
     "lastName": "Coumbassa",
     "quote": "Bez ideja",
-    "mostLikely": "Crna Belma.",
+    "mostLikely": "",
     "photo": "/img/disco/stella_coumbassa.jpg",
     "anchorHolder": ""
   },
@@ -75,7 +91,7 @@
     "firstName": "Dajana",
     "lastName": "Debeljak",
     "quote": "Zabila sem da je slikanje denes...",
-    "mostLikely": "Najvjerojatnije je doživjela aneurizmu dok je pisala ovaj citat.",
+    "mostLikely": "",
     "photo": "/img/disco/dajana_debeljak.jpg",
     "anchorHolder": ""
   },
@@ -83,8 +99,16 @@
     "firstName": "Lucijan Luka",
     "lastName": "Hančić",
     "quote": "Neću bit u depresiji kad nemam sexa ni para.",
-    "mostLikely": "Najvjerojatnije će glumiti u novom nastavku Twilight sage.",
+    "mostLikely": "",
     "photo": "/img/disco/lucijan_luka_hancic.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Marta",
+    "lastName": "Lučić",
+    "quote": "Izvuk'o si ciglu iz temelja ljubavi naše, samo deca ostaše.",
+    "mostLikely": "",
+    "photo": "/img/disco/marta_lucic.jpg",
     "anchorHolder": ""
   },
   {
@@ -99,14 +123,14 @@
     "firstName": "Nikola",
     "lastName": "Prpić",
     "quote": "Such is lyfe",
-    "mostLikely": "Najvjerojatnije će vršiti redovite preglede prostate umirovljenicima.",
+    "mostLikely": "Doktor u kući",
     "photo": "/img/disco/nikola_prpic.jpg",
     "anchorHolder": ""
   },
   {
     "firstName": "Dražen",
     "lastName": "Šarec",
-    "quote": "",
+    "quote": "Što više popiješ, to bolje izgledam. Živjeli!",
     "mostLikely": "Human puppy.",
     "photo": "/img/disco/drazen_sarec.jpg",
     "anchorHolder": ""
@@ -122,7 +146,7 @@
   {
     "firstName": "Luka",
     "lastName": "Zadro",
-    "quote": "",
+    "quote": "Got 99 problems, but this bitch ain't one.",
     "mostLikely": "Najvjerojatnije najteži slučaj Resting Bitch Face sindroma u KSET-u.",
     "photo": "/img/disco/luka_zadro.jpg",
     "anchorHolder": ""
@@ -136,18 +160,26 @@
     "anchorHolder": ""
   },
   {
+    "firstName": "Dramska",
+    "lastName": "sekcija",
+    "quote": "",
+    "mostLikely": "",
+    "photo": "/img/drama/dramska_grupna.jpg",
+    "anchorHolder": "dramska-sekcija"
+  },
+  {
     "firstName": "Vjekoslav 'Vjeko'",
     "lastName": "Artić",
     "quote": "Meni se tebe gleda.",
     "mostLikely": "Dobitnik Zlatnog Tajkuna za najboljeg poduzetnika godine.",
     "photo": "/img/drama/vjekoslav_artic.jpg",
-    "anchorHolder": "dramska-sekcija"
+    "anchorHolder": ""
   },
   {
     "firstName": "Karla",
     "lastName": "Biuković",
     "quote": "The chicken has landed",
-    "mostLikely": "I kapicom i facom i citatom savršeno utjelovila dijete s posebnim potrebama",
+    "mostLikely": "",
     "photo": "/img/drama/karla_biukovic.jpg",
     "anchorHolder": ""
   },
@@ -155,7 +187,7 @@
     "firstName": "Michael Tomislav",
     "lastName": "Breyer",
     "quote": "Gay i OK.",
-    "mostLikely": "Da li mu onda lajkaju hardcore hetero stranice kad se zaboravi odlogirati na fejsu?",
+    "mostLikely": "",
     "photo": "/img/drama/michael_tomislav_breyer.jpg",
     "anchorHolder": ""
   },
@@ -163,7 +195,7 @@
     "firstName": "Iskra",
     "lastName": "Cvitković",
     "quote": "Umri ženski!",
-    "mostLikely": "Samohrana majka troje djece.",
+    "mostLikely": "",
     "photo": "/img/drama/iskra_cvitkovic.jpg",
     "anchorHolder": ""
   },
@@ -179,7 +211,7 @@
     "firstName": "Marino",
     "lastName": "Habulan",
     "quote": "I'm a prostitute robot from the future.",
-    "mostLikely": "Oliver Mlakar KSET-a.",
+    "mostLikely": "",
     "photo": "/img/drama/marino_habulan.jpg",
     "anchorHolder": ""
   },
@@ -187,7 +219,7 @@
     "firstName": "Barbara 'Barbi'",
     "lastName": "Horvatić",
     "quote": "Samo ljubav :)",
-    "mostLikely": "Luna Lovegood kada bi Hogwarts bio KSET.",
+    "mostLikely": "",
     "photo": "/img/drama/barbara_horvatic.jpg",
     "anchorHolder": ""
   },
@@ -195,7 +227,7 @@
     "firstName": "Hrvoje",
     "lastName": "Kovač",
     "quote": "Do not remove from the BAR!!!",
-    "mostLikely": "Najvjerojatnije će prvi započeti tučnjavu u kafiću.",
+    "mostLikely": "Najvjerojatnije će prvi započeti tučnjavu u birtiji.",
     "photo": "/img/drama/hrvoje_kovac.jpg",
     "anchorHolder": ""
   },
@@ -227,7 +259,7 @@
     "firstName": "Ivan",
     "lastName": "Rittinger",
     "quote": "Teške droge - lake žene - dank memes",
-    "mostLikely": "Najvjerojatnije nitko nije mislio da Rittinger može ispasti cool na fotografji.",
+    "mostLikely": "",
     "photo": "/img/drama/ivan_rittinger.jpg",
     "anchorHolder": ""
   },
@@ -259,7 +291,7 @@
     "firstName": "Vida",
     "lastName": "Zelić",
     "quote": ":*",
-    "mostLikely": "Najvjerojatnije ju uvijek traže osobnu.",
+    "mostLikely": "",
     "photo": "/img/drama/vida_zelic.jpg",
     "anchorHolder": ""
   },
@@ -272,18 +304,26 @@
     "anchorHolder": ""
   },
   {
+    "firstName": "Foto",
+    "lastName": "sekcija",
+    "quote": "",
+    "mostLikely": "",
+    "photo": "/img/foto/foto_grupna.jpg",
+    "anchorHolder": "foto-sekcija"
+  },
+  {
     "firstName": "Tajana",
     "lastName": "Barac",
     "quote": "Not all drunks can drive.",
     "mostLikely": "",
     "photo": "/img/foto/tajana_barac.jpg",
-    "anchorHolder": "foto-sekcija"
+    "anchorHolder": ""
   },
   {
     "firstName": "Helena",
     "lastName": "Benc",
     "quote": "Kaj gledaš majmune?!",
-    "mostLikely": "Ovaj majmun izgleda kao da je dotakao dno života.",
+    "mostLikely": "",
     "photo": "/img/foto/helena_benc.jpg",
     "anchorHolder": ""
   },
@@ -298,15 +338,15 @@
   {
     "firstName": "Kristina 'Kike'",
     "lastName": "Delić",
-    "quote": "",
-    "mostLikely": "Zabrinjavajuća opsesija prema pingvinima i gljivama s amputiranim udovima.",
+    "quote": "Napravi mi sina pod svetlima kasina.",
+    "mostLikely": "Zabrinjavajuća opsesija prema pingvinima.",
     "photo": "/img/foto/kristina_delic.jpg",
     "anchorHolder": ""
   },
   {
     "firstName": "Antonia",
     "lastName": "Drezga",
-    "quote": "",
+    "quote": "I hope I didn't brain my damage.",
     "mostLikely": "",
     "photo": "/img/foto/antonia_drezga.jpg",
     "anchorHolder": ""
@@ -331,15 +371,23 @@
     "firstName": "Darjan",
     "lastName": "Grilec",
     "quote": "Faca ti je citat.",
-    "mostLikely": "Nemojte s njim ulaziti u rasprave preko maila. Tu je na domaćem terenu.",
+    "mostLikely": "",
     "photo": "/img/foto/darjan_grilec.jpg",
+    "anchorHolder": ""
+  },
+  {
+    "firstName": "Marija",
+    "lastName": "Havaić",
+    "quote": "You don't mess with the Zohan",
+    "mostLikely": "",
+    "photo": "/img/foto/marija_havaic.jpg",
     "anchorHolder": ""
   },
   {
     "firstName": "Petra",
     "lastName": "Kaić",
     "quote": "Go with the flow.",
-    "mostLikely": "Vjerojatno ćete ju uvijek vidjeti s mobitelom u ruci kako visi na Facebooku.",
+    "mostLikely": "Najvjerojatnije ćete ju uvijek vidjeti s mobitelom u ruci kako visi na Facebooku.",
     "photo": "/img/foto/petra_kaic.jpg",
     "anchorHolder": ""
   },
@@ -370,7 +418,7 @@
   {
     "firstName": "Lucija 'Joška'",
     "lastName": "Lokas",
-    "quote": "",
+    "quote": "Hobiji: fotografija i škakljanje",
     "mostLikely": "",
     "photo": "/img/foto/lucija_lokas.jpg",
     "anchorHolder": ""
@@ -379,7 +427,7 @@
     "firstName": "Valerija",
     "lastName": "Ljubić",
     "quote": "Tko se boji vuka još?",
-    "mostLikely": "Najstarija najmlađa kumica s placa ikad!",
+    "mostLikely": "Najmlađa kumica s placa ikad!",
     "photo": "/img/foto/valerija_ljubic.jpg",
     "anchorHolder": ""
   },
@@ -395,7 +443,7 @@
     "firstName": "Katarina 'Kejt'",
     "lastName": "Osmakčić",
     "quote": "Čovjek je zbroj vlastitih nesreća.",
-    "mostLikely": "Hermiona kada bi Hogwarts bio KSET.",
+    "mostLikely": "KSET-ova Hermiona.",
     "photo": "/img/foto/katarina_osmakcic.jpg",
     "anchorHolder": ""
   },
@@ -411,15 +459,15 @@
     "firstName": "Andrea",
     "lastName": "Radmanić",
     "quote": "Spavam na koncertima.",
-    "mostLikely": "I pije po izložbama.",
+    "mostLikely": "",
     "photo": "/img/foto/andrea_radmanic.jpg",
     "anchorHolder": ""
   },
   {
     "firstName": "Marta",
     "lastName": "Reljanović",
-    "quote": "",
-    "mostLikely": "Izgleda kao da ju upravo vidjela truplo.",
+    "quote": "Tko visoko leti, nisko pada.",
+    "mostLikely": "",
     "photo": "/img/foto/marta_reljanovic.jpg",
     "anchorHolder": ""
   },
@@ -459,7 +507,7 @@
     "firstName": "Ljiljana",
     "lastName": "Vukmanovic",
     "quote": "Još uvijek nemam inspiraciju",
-    "mostLikely": "Najvjerojatnije joj se možete javiti za besplatne stomatološke preglede.",
+    "mostLikely": "Službena zubarica KSET-a.",
     "photo": "/img/foto/ljiljana_vukmanovic.jpg",
     "anchorHolder": ""
   },
@@ -475,7 +523,7 @@
     "firstName": "Bruno",
     "lastName": "Vunderl",
     "quote": "Sve je u redu. Ne, ne, ne, sve je u redu.",
-    "mostLikely": "Najvjerojatnije vam je duboko uzdahnuo jer ste ga pitali nešto očito ili rekli nešto glupo.",
+    "mostLikely": "Najvjerojatnije vam je jednom duboko uzdahnuo jer ste ga pitali nešto očito ili rekli nešto glupo.",
     "photo": "/img/foto/bruno_vunderl.jpg",
     "anchorHolder": ""
   },
@@ -488,12 +536,20 @@
     "anchorHolder": ""
   },
   {
+    "firstName": "Glazbena",
+    "lastName": "sekcija",
+    "quote": "",
+    "mostLikely": "",
+    "photo": "/img/glazbena/glazbena_grupna.jpg",
+    "anchorHolder": "glazbena-sekcija"
+  },
+  {
     "firstName": "Luka",
     "lastName": "Abramušić",
     "quote": "Mogu ja to vama poslat?",
     "mostLikely": "Najvjerojatnije izgleda kao lik koji bi podsjetio profesora da je zaboravio zadati domaću zadaću.",
     "photo": "/img/glazbena/luka_abramusic.jpg",
-    "anchorHolder": "glazbena-sekcija"
+    "anchorHolder": ""
   },
   {
     "firstName": "Dominik",
@@ -507,7 +563,7 @@
     "firstName": "Matej",
     "lastName": "Balun",
     "quote": "Dotako sam dno života.",
-    "mostLikely": "Dame, njegov jezik je njegov pick za gitaru.",
+    "mostLikely": "",
     "photo": "/img/glazbena/matej_balun.jpg",
     "anchorHolder": ""
   },
@@ -624,7 +680,7 @@
     "anchorHolder": ""
   },
   {
-    "firstName": "Ivan 'Sinčić'",
+    "firstName": "Ivan",
     "lastName": "Sičić",
     "quote": "Šaljem mailom.",
     "mostLikely": "",
@@ -656,12 +712,20 @@
     "anchorHolder": ""
   },
   {
+    "firstName": "P.I.J.A.N.D.U.R.E.",
+    "lastName": "",
+    "quote": "",
+    "mostLikely": "",
+    "photo": "/img/pijandure/pijandure_grupna.jpg",
+    "anchorHolder": "planinarska-sekcija"
+  },
+  {
     "firstName": "Tonko",
     "lastName": "Bogovac",
     "quote": "Pizze, ne pice!",
     "mostLikely": "",
     "photo": "/img/pijandure/tonko_bogovac.jpg",
-    "anchorHolder": "planinarska-sekcija"
+    "anchorHolder": ""
   },
   {
     "firstName": "Hrvoje 'Srboje'",
@@ -674,7 +738,7 @@
   {
     "firstName": "Lovro",
     "lastName": "Garofulić",
-    "quote": "",
+    "quote": "Ludilo u klubu, lepiš se za mene k'o karijes na zubu.",
     "mostLikely": "",
     "photo": "/img/pijandure/lovro_garofulic.jpg",
     "anchorHolder": ""
@@ -720,6 +784,14 @@
     "anchorHolder": ""
   },
   {
+    "firstName": "Ivana",
+    "lastName": "Mišerić",
+    "quote": "Ma samo ću jednu pa idem doma.",
+    "mostLikely": "",
+    "photo": "/img/pijandure/ivana_miseric.jpg",
+    "anchorHolder": ""
+  },
+  {
     "firstName": "Marin",
     "lastName": "Petrunić",
     "quote": "Odmor za umorne i nadražene oči.",
@@ -755,7 +827,7 @@
     "firstName": "Krešimir 'Toše'",
     "lastName": "Vlahov",
     "quote": "Najlakše tuđim kurcem po koprivama",
-    "mostLikely": "Najvjerojatnije vam uvijek izgleda kao da će upravo razbiti nekoga.",
+    "mostLikely": "",
     "photo": "/img/pijandure/kresimir_vlahov.jpg",
     "anchorHolder": ""
   },
@@ -792,12 +864,20 @@
     "anchorHolder": ""
   },
   {
+    "firstName": "Računarska",
+    "lastName": "sekcija",
+    "quote": "",
+    "mostLikely": "",
+    "photo": "/img/comp/racunarska_grupna.jpg",
+    "anchorHolder": "racunarska-sekcija"
+  },
+  {
     "firstName": "Ivan",
     "lastName": "Anić",
     "quote": "Tu ru ru",
     "mostLikely": "",
     "photo": "/img/comp/ivan_anic.jpg",
-    "anchorHolder": "racunarska-sekcija"
+    "anchorHolder": ""
   },
   {
     "firstName": "Dominik",
@@ -811,7 +891,7 @@
     "firstName": "Josip 'Cona'",
     "lastName": "Glasovac",
     "quote": "Tu ru ru tu tu tu tuuuuu",
-    "mostLikely": "",
+    "mostLikely": "Da, Cona ima ime i prezime.",
     "photo": "/img/comp/josip_glasovac.jpg",
     "anchorHolder": ""
   },
@@ -835,7 +915,7 @@
     "firstName": "Filip 'Mrav'",
     "lastName": "Mravunac",
     "quote": "Ti me slijediš, bježim i gubim dah",
-    "mostLikely": "Najvjerojatnije mrzi gadarije koje proizvodi Video sekcija.",
+    "mostLikely": "Mrzi gadarije koje proizvodi Video sekcija.",
     "photo": "/img/comp/filip_mravunac.jpg",
     "anchorHolder": ""
   },
@@ -936,12 +1016,20 @@
     "anchorHolder": ""
   },
   {
-    "firstName": "Tomislav 'Baban'",
-    "lastName": "Babović",
+    "firstName": "Tehnička",
+    "lastName": "sekcija",
     "quote": "",
     "mostLikely": "",
-    "photo": "/img/tech/tomislav_babovic.jpg",
+    "photo": "/img/tech/tech_grupna.jpg",
     "anchorHolder": "tehnicka-sekcija"
+  },
+  {
+    "firstName": "Tomislav 'Baban'",
+    "lastName": "Babović",
+    "quote": "Bolje bušilica u ruci, nego dijete u pelenama.",
+    "mostLikely": "",
+    "photo": "/img/tech/tomislav_babovic.jpg",
+    "anchorHolder": ""
   },
   {
     "firstName": "David",
@@ -971,7 +1059,7 @@
     "firstName": "Joško",
     "lastName": "Frančeski",
     "quote": "Bolje biti čitav život živ, nego jedan dan mrtav!",
-    "mostLikely": "",
+    "mostLikely": "Najvjerojatnije je mrtav iznutra.",
     "photo": "/img/tech/josko_franceski.jpg",
     "anchorHolder": ""
   },
@@ -1027,7 +1115,7 @@
     "firstName": "Magdalena",
     "lastName": "Matijević",
     "quote": "Moj um je kist, a med mi je boja.",
-    "mostLikely": "A Hormot joj je planto.",
+    "mostLikely": "A Hormot joj je platno.",
     "photo": "/img/tech/magdalena_matijevic.jpg",
     "anchorHolder": ""
   },
@@ -1042,7 +1130,7 @@
   {
     "firstName": "Willi",
     "lastName": "Pavlek",
-    "quote": "",
+    "quote": "Nanananana",
     "mostLikely": "",
     "photo": "/img/tech/willi_pavlek.jpg",
     "anchorHolder": ""
@@ -1050,7 +1138,7 @@
   {
     "firstName": "Matea",
     "lastName": "Perić",
-    "quote": "",
+    "quote": "Konobar, 'esi mi živ, 'esi mi dobar daj šta će dame daj šta će gospoda.",
     "mostLikely": "",
     "photo": "/img/tech/matea_peric.jpg",
     "anchorHolder": ""
@@ -1088,12 +1176,20 @@
     "anchorHolder": ""
   },
   {
+    "firstName": "Video",
+    "lastName": "sekcija",
+    "quote": "",
+    "mostLikely": "",
+    "photo": "/img/video/video_grupna.jpg",
+    "anchorHolder": "video-sekcija"
+  },
+  {
     "firstName": "Domagoj",
     "lastName": "Bakuta",
     "quote": "Ovo je tvoj život i svršava trenutak po trenutak",
     "mostLikely": "",
     "photo": "/img/video/domagoj_bakuta.jpg",
-    "anchorHolder": "video-sekcija"
+    "anchorHolder": ""
   },
   {
     "firstName": "Tamara",
@@ -1170,7 +1266,7 @@
   {
     "firstName": "Cvijeta",
     "lastName": "Škarić",
-    "quote": "",
+    "quote": "Casting couch potato.",
     "mostLikely": "",
     "photo": "/img/video/cvijeta_skaric.jpg",
     "anchorHolder": ""

@@ -31,19 +31,57 @@
                 <div class="member-wrapper" ng-controller="MembersCtrl">
                     <div class="slide" ng-repeat="member in members" data-anchor="{{member.anchorHolder}}">
                         <div class="row">
+                            <button class="back-to-toc" ng-click="goToTOC()">NATRAG NA SADRŽAJ</button>
                             <div class="col-xs-12 text-center">
                                 <img class="img-responsive img-yearbook" data-src="{{member.photo}}" />
                                 <h2>{{member.firstName + " " + member.lastName}}</h2>
-                                <p class="quote">"{{member.quote}}"</p>
+                                <p class="quote" ng-if="member.quote">"{{member.quote}}"</p>
                                 <p>{{member.mostLikely}}</p>
                             </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="slide">
+                    <div class="row">
+                        <div class="col-xs-12 text-center">
+                            <h1>Kraljevi i kraljice maturalne</h1>
+                        </div>
+                    </div>
+                </div>
+                <div class="slide">
+                    <div class="row">
+                        <div class="col-xs-12 text-center">
+                            <img class="img-responsive img-yearbook" data-src="/img/tech/medari.jpg" />
+                            <h2>Roko Mišlov & Filip Hormot</h2>
+                            <p class="quote">"Med je ljepilo koje nas drži skupa"</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="slide">
+                    <div class="row">
+                        <div class="col-xs-12 text-center">
+                            <img class="img-responsive img-yearbook" data-src="/img/tech/unexpected_lel.jpg" />
+                        </div>
+                    </div>
+                </div>
+                <div class="slide">
+                    <div class="row">
+                        <div class="col-xs-12 text-center">
+                            <img class="img-responsive img-yearbook" data-src="/img/glazbena/kraljevi.jpg" />
+                            <h2>Ivan Sičić & Ivan Dominić</h2>
+                            <p class="quote">Naša ljubav je kao dobar bas - duboka.</p>
                         </div>
                     </div>
                 </div>
                 <div class="slide" data-anchor="the-end">
                     <div class="row">
                         <div class="col-xs-12 text-center the-end">
-                            <h1>THE END</h1>
+                            <div class="impressum">
+                                <h1>
+                                    THE END
+                                </h1>
+                                <h3>&copy; Fotosekcija KSET</h3>
+                            </div>
                         </div>
                     </div>
                 </div>
